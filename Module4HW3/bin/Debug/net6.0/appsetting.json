@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+
+    "DefaultConnection": "Server=DESKTOP-N8SPHTA\\mssqllocaldb;Database=CompanyDB;Integrated Security=True"
+  }
+}
